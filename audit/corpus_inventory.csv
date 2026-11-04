@@ -1,4 +1,3 @@
-
 corpus,access_status,file_format,learner_id,noun_lemma,learner_text,target_hypothesis,error_annotation,morphological_features,token_alignment,proficiency,license_checked,notes
 MERLIN,Downloaded,relANNIS,Metadata field identified,Available,Available,Available,Available,Automated tags available,Not validated,Metadata not yet audited,No,"v1.2; 68 annotation layers; gender-related error subtype identified; learner-token and target alignment pending"
 KanDeL,Access pending,Unknown,Not validated,Documented,Documented,Documented,Not validated,POS documented,Not validated,Beginning to intermediate,No,"Longitudinal corpus; annotation availability documented by HU Berlin; original data not yet obtained"
