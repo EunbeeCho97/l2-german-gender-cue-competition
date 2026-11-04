@@ -1,8 +1,8 @@
 corpus,access_status,file_format,learner_id,noun_lemma,learner_text,target_hypothesis,error_annotation,morphological_features,token_alignment,proficiency,license_checked,notes
-MERLIN,Downloaded,relANNIS,Metadata field identified,Annotation available,Available,Available,Gender-related categories available,Automated tags available,Not validated,Not audited,No,"v1.2; 68 node annotation names; gender error subtype present; extraction validation pending"
-KanDeL,Access pending,Not inspected,Not validated,Documented,Documented,Documented,Not validated,POS documented,Not validated,Beginning to intermediate,No,"Longitudinal corpus; original data not yet obtained; documentation reviewed"
-EAGLE,To verify,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,No,""
-Falko,Downloaded,XLSX,Metadata fields identified,Available,Available,Available,Target-difference annotations,POS and lemma available,Not validated,CTEST field identified,No,"Essay L2 v2.4; 248 workbooks available; 3 inspected; gender-specific error classification not validated"
-Kobalt Extension,Downloaded,XLSX and CoNLL and R data,Not validated,Available,Available,Available,Target-difference annotations,POS and lemma available,Not validated,Not audited,No,"108 Excel workbooks available; 3 inspected; CoNLL and R data not audited; gender-specific error classification pending"
-DiGS,To verify,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,No,""
-CDLK-Pseudolongitudinal,To verify,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,No,""
+MERLIN,Downloaded,relANNIS,Metadata field identified,Annotation available,Available,Available,Gender-related categories available,Automated tags available,Not validated,Not audited,No,v1.2; 68 node annotation names; gender error subtype present; extraction validation pending
+KanDeL,Access pending,Not inspected,Not validated,Documented,Documented,Documented,Not validated,POS documented,Not validated,Beginning to intermediate,No,Longitudinal corpus; original data not yet obtained; documentation reviewed
+EAGLE,To verify,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,No,
+Falko,Downloaded,XLSX,Metadata fields identified,Available,Available,Available,Target-difference annotations,POS and lemma available,Not validated,CTEST field identified,No,Essay L2 v2.4; 248 workbooks available; 3 inspected; gender-specific error classification not validated
+Kobalt Extension,Downloaded,XLSX and CoNLL and R data,Not validated,Available,Available,Available,Target-difference annotations,POS and lemma available,Not validated,Not audited,No,108 Excel workbooks available; 3 inspected; CoNLL and R data not audited; gender-specific error classification pending
+DiGS,To verify,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,No,
+CDLK-Pseudolongitudinal,To verify,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,No,
