@@ -1,9 +1,9 @@
+
 corpus,access_status,file_format,learner_id,noun_lemma,learner_text,target_hypothesis,error_annotation,morphological_features,token_alignment,proficiency,license_checked,notes
-MERLIN,To verify,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,No,
-KanDeL,To verify,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,No,
+MERLIN,Downloaded,relANNIS,Metadata field identified,Available,Available,Available,Available,Automated tags available,Not validated,Metadata not yet audited,No,"v1.2; 68 annotation layers; gender-related error subtype identified; learner-token and target alignment pending"
+KanDeL,Access pending,Unknown,Not validated,Documented,Documented,Documented,Not validated,POS documented,Not validated,Beginning to intermediate,No,"Longitudinal corpus; annotation availability documented by HU Berlin; original data not yet obtained"
 EAGLE,To verify,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,No,
-Falko,To verify,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,No,
+Falko,Downloaded,XLSX,Metadata fields identified,Available,Available,Available,Target-difference annotations,POS and lemma available,Not validated,CTEST field identified,No,"Essay L2 v2.4; 248 workbooks available; 3 inspected; ZH1 and ZH2 populated; gender-specific error classification not validated"
 Kobalt Extension,To verify,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,No,
 DiGS,To verify,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,No,
-CDLK-Pseudolongitudinal,To verify,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,No,
-DAKODA,To verify,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,No,
+CDLK-Pseudolongitudinal,To verify,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,No
